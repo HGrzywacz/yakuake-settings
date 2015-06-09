@@ -1,0 +1,43 @@
+[$Version]
+update_info=yakuake.upd:2.9.9-startupnotification
+
+[Animation]
+Frames=1
+
+[Appearance]
+Skin=simple_dark_V3inv
+SkinInstalledWithKns=true
+TerminalHighlightOnManualActivation=true
+Translucency=true
+
+[Colors]
+CurrentPalette=Forty Colors
+
+[Desktop Entry]
+DefaultProfile=Shell.profile
+
+[Dialogs]
+FirstRun=false
+
+[DownloadDialog Settings]
+Height 1080=785
+Width 1920=1411
+
+[Favorite Profiles]
+Favorites=
+
+[KFileDialog Settings]
+Height 1080=528
+Width 1920=931
+
+[Shortcuts]
+new-session-two-horizontal=Ctrl+Shift+Y
+next-terminal=Alt+Right
+previous-terminal=Alt+Left
+split-left-right=Ctrl+(; Ctrl+T
+view-full-screen=F11
+
+[Window]
+Height=90
+KeepOpen=false
+Width=100
